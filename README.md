@@ -1,4 +1,4 @@
-# mongodb-task
+# mongodb-task-02
 
 
 Find all the information about each products
